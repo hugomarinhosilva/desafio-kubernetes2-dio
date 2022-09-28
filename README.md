@@ -5,3 +5,4 @@ Neste projeto será criado um pipeline de deploy de uma aplicação com cenário
 com Docker e criação dos deployments em um cluster kubernetes em nuvem utilizando o GCP.
 
 Projeto GitLab:
+https://gitlab.com/hugomarinhosilva/desafio-kubernetes2-dio
